@@ -1,7 +1,7 @@
 # AI-Drawing-Application
 
 <p align="center">
-  <img src="screenshots/DrawingAppDemo.gif" width="300" alt="App Demo GIF">
+  <img src="screenshots/DrawingAIDemo.gif" width="300" alt="App Demo GIF">
 </p>
 
 This project is a modern Android drawing application built with Jetpack Compose. Users can create sketches on a custom canvas, analyze their work using Google Vision API, and share drawings with friends via a cloud-based gallery system.
